@@ -1,6 +1,6 @@
 <h3>Good Day, Nice to see you!!</h3>
 
-Connect with me: <br>
+<b>Connect with me:</b> <br>
 <div>
   <a href="https://www.linkedin.com/in/kanin-kearpimy-48a2b2165/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100px" />
