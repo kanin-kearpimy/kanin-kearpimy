@@ -1,19 +1,40 @@
 <h3>Good Day, Nice to see you!!</h3>
 
+Connect with me: <br>
+<div>
+  <a href="https://www.linkedin.com/in/kanin-kearpimy-48a2b2165/">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100px" />
+  </a>
+  <a href="https://medium.com/@kaninkearpimy">
+    <img src="https://i.ibb.co/pf768RX/KFid2RQA.png" width="100px" />
+  </a>
+</div>
+
 <br>
 
 > I'm software engineer and fresh graduate who passionate in applying machine learning to solve business complex. I dedicate self-learning in data world and having fun building web-development. 
 
 <br>
 
-Connect with me:
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn icon</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
-
----
-
-
 <h4>I’m currently working on</h4>
 
+<ul>
+  <li>PHP Laravel</li>
+  <li>VueJS</li>
+  <li>Python Flask</li>
+  <li>Microsoft Azure</li>
+  <li>Amazon Web Service</li>
+  <li>Computer Vision (Keras-Retinanet)</li>
+</ul>
+
+
+<h4>I'm learning about</h4>
+<ul>
+  <li>Machine Learning</li>
+  <li>DevOps</li>
+  <li>Linux</li>
+  <li>Computer Vision (Keras-Retinanet)</li>
+</ul>
 
 <!--
 **kanin-kearpimy/kanin-kearpimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
