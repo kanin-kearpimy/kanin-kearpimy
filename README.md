@@ -6,7 +6,7 @@
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100px" />
   </a>
   <a href="https://medium.com/@kaninkearpimy">
-    <img src="https://i.ibb.co/pf768RX/KFid2RQA.png" width="100px" />
+    <img src="https://i.ibb.co/HqHCCsZ/Screen-Shot-2564-01-01-at-21-40-25.png" width="100px" />
   </a>
 </div>
 
