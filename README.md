@@ -19,12 +19,12 @@ Connect with me: <br>
 <h4>I’m currently working on</h4>
 
 <ul>
-  <li>PHP Laravel</li>
-  <li>VueJS</li>
-  <li>Python Flask</li>
-  <li>Microsoft Azure</li>
-  <li>Amazon Web Service</li>
-  <li>Computer Vision (Keras-Retinanet)</li>
+  <li >PHP Laravel <img width="80px" src="https://img.shields.io/badge/laravel-language?logo=php&style=for-the-badge&label=PHP"></li>
+  <li>VueJS <img width="80px" src="https://img.shields.io/badge/vuejs-language?logo=vue.js&style=for-the-badge&label=vuejs"></li>
+  <li>Python Flask <img width="80px" src="https://img.shields.io/badge/flask-language?logo=python&style=for-the-badge&label=python"></li>
+  <li>Microsoft Azure <img width="80px" src="https://img.shields.io/badge/Azure-language?logo=microsoft-azure&style=for-the-badge&label=cloud"></li>
+  <li>Amazon Web Service <img width="80px" src="https://img.shields.io/badge/AWS-language?logo=amazon-aws&style=for-the-badge&label=cloud"></li>
+  <li>Computer Vision (Keras-Retinanet) <img width="120px" height="20px" src="https://img.shields.io/badge/Keras-Retinanet-language?logo=keras&style=for-the-badge&label=Computer-Vision"></li>
 </ul>
 
 
@@ -33,7 +33,7 @@ Connect with me: <br>
   <li>Machine Learning</li>
   <li>DevOps</li>
   <li>Linux</li>
-  <li>Computer Vision (Keras-Retinanet)</li>
+  <li>Tensorflow.js</li>
 </ul>
 
 <!--
