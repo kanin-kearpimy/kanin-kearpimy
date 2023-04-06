@@ -12,7 +12,7 @@
 
 <br>
 
-> I'm software engineer and fresh graduate who passionate in applying machine learning to solve business complex. I dedicate self-learning in data world and having fun building web-development. 
+> Software engineer experienced in web development, working with large amounts of data, and chatbots. Right now being obsessed with core framework development and large-scale software product.
 
 <br>
 
@@ -24,16 +24,14 @@
   <li>Python Flask <img width="80px" src="https://img.shields.io/badge/flask-language?logo=python&style=for-the-badge&label=python"></li>
   <li>Microsoft Azure <img width="80px" src="https://img.shields.io/badge/Azure-language?logo=microsoft-azure&style=for-the-badge&label=cloud"></li>
   <li>Amazon Web Service <img width="80px" src="https://img.shields.io/badge/AWS-language?logo=amazon-aws&style=for-the-badge&label=cloud"></li>
-  <li>Computer Vision (Keras-Retinanet) <img width="120px" height="20px" src="https://img.shields.io/badge/Keras-Retinanet-language?logo=keras&style=for-the-badge&label=Computer-Vision"></li>
 </ul>
 
 
 <h4>I'm learning about</h4>
 <ul>
-  <li>Machine Learning</li>
+  <li>Rust</li>
   <li>DevOps</li>
-  <li>Linux</li>
-  <li>Tensorflow.js</li>
+  <li>Linux Kernel</li>
 </ul>
 
 <!--
