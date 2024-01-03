@@ -5,20 +5,16 @@
 <h4>I’m currently working on</h4>
 <ul>
   <li><a href="https://github.com/mongodbthailand">MongoDB Thailand User Group (THMUG)</a></li>
-  <li><a href="[https://github.com/mongodbthailand](https://github.com/kanin-kearpimy/react-js)">JS DOM & React</a>for Career switcher</li>
+  <li><a href="https://github.com/kanin-kearpimy/react-js">JS DOM & React</a>for Career switcher</li>
   <li>Learning Python Internal with CPython</li>
 </ul>
 <b>Connect with me:</b> <br>
 <div>
-  <a href="https://www.linkedin.com/in/kanin-kearpimy-48a2b2165/">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100px" />
-  </a>
-  <a href="https://medium.com/@kaninkearpimy">
-    <img src="https://i.ibb.co/HqHCCsZ/Screen-Shot-2564-01-01-at-21-40-25.png" width="120px" />
-  </a>
-  <a href="https://twitter.com/Kanin_Kearpimy">
-    X (Twitter)
-  </a>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/kanin-kearpimy-48a2b2165/">LinkedIn</a></li>
+    <li><a href="https://twitter.com/Kanin_Kearpimy">X (Twitter)</a></li>
+    <li><a href="https://medium.com/@kaninkearpimy">Medium</a></li> 
+  </ul>
 </div>
 
 
