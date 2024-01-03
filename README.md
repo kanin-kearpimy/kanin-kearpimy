@@ -5,7 +5,7 @@
 <h4>I’m currently working on</h4>
 <ul>
   <li><a href="https://github.com/mongodbthailand">MongoDB Thailand User Group (THMUG)</a></li>
-  <li><a href="https://github.com/kanin-kearpimy/react-js">JS DOM & React</a>for Career switcher</li>
+  <li><a href="https://github.com/kanin-kearpimy/react-js">JS DOM & React</a> for Career switcher</li>
   <li>Learning Python Internal with CPython</li>
 </ul>
 <b>Connect with me:</b> <br>
