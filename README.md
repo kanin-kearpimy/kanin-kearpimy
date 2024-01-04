@@ -2,6 +2,8 @@
 
 <p>I'm James, Co-chair of <a href="https://th.pycon.org/">PyCon Thailand 2023</a>, Lead Instructor at <a href="https://thailand.generation.org/">Generation Thailand</a>, Community Lead at <a href="https://www.facebook.com/groups/mongodbthailand/?locale=tl_PH">Thai MongoDB User Group</a>. I love low-level stuff, teaching, and community. </p>
 
+<p>I often give a <a href="https://kkanin.com#talks">talk</a> in community.</p>
+
 <h4>I’m currently working on</h4>
 <ul>
   <li><a href="https://github.com/mongodbthailand">MongoDB Thailand User Group (THMUG)</a></li>
